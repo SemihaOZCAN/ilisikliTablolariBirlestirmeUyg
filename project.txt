@@ -1,0 +1,5 @@
+İlişikli tablolar ile birleştirme uygulaması
+**************************************************
+Bu program SQL Server'daki DbiliskiUygulama veritabanına bağlanır,
+TblHareketler tablosundan ve ilişkili diğer tablolardan veri çeker ve bu verileri form üzerindeki DataGridView kontrolünde tablo formatında görüntüler. 
+Veritabanı sorgusu, hareket bilgileri, ürün adı, müşteri adı ve soyadı, personel adı ve fiyat gibi bilgileri içerir ve kullanıcıya bu bilgileri düzenli bir şekilde sunar.

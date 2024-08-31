@@ -1,0 +1,10 @@
+C:\Users\Semiha\Desktop\IliskiSorgulama\IliskiSorgulama\bin\Debug\IliskiSorgulama.exe.config
+C:\Users\Semiha\Desktop\IliskiSorgulama\IliskiSorgulama\bin\Debug\IliskiSorgulama.exe
+C:\Users\Semiha\Desktop\IliskiSorgulama\IliskiSorgulama\bin\Debug\IliskiSorgulama.pdb
+C:\Users\Semiha\Desktop\IliskiSorgulama\IliskiSorgulama\obj\Debug\IliskiSorgulama.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\IliskiSorgulama\IliskiSorgulama\obj\Debug\IliskiSorgulama.Form1.resources
+C:\Users\Semiha\Desktop\IliskiSorgulama\IliskiSorgulama\obj\Debug\IliskiSorgulama.Properties.Resources.resources
+C:\Users\Semiha\Desktop\IliskiSorgulama\IliskiSorgulama\obj\Debug\IliskiSorgulama.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\IliskiSorgulama\IliskiSorgulama\obj\Debug\IliskiSorgulama.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\IliskiSorgulama\IliskiSorgulama\obj\Debug\IliskiSorgulama.exe
+C:\Users\Semiha\Desktop\IliskiSorgulama\IliskiSorgulama\obj\Debug\IliskiSorgulama.pdb
